@@ -1,3 +1,4 @@
+language: aaa
 os:
   - linux
   - osx
